@@ -1,8 +1,4 @@
 /*Garrison Davis
-I am turning this in very late sorry
-Function: A linked List with a built in Node class which i know is not what the directions asked
-for, but honestly I did not read them well and did this whole thing before reading about the 
-header files and node class and stuff and I really do not have time to redo it.
 Input: A series of ints
 Output: A linked list will be printed. */
 #include <iostream>
